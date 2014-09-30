@@ -1,18 +1,3 @@
-<<<<<<< refs/remotes/origin/master
-# Site settings
-title: heqzha@blog
-email: heqzha@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hequn Zhang, Interest areas is Game Engine Development and Intelligent Algorithms Research, This blog is about what I learnt and how I thought. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: heqzha
-github_username: heqzha
-
-# Build settings
-markdown: rdiscount
-permalink: /blog/:year/:month/:day/:title
-=======
 title:            Heqzha@Blog
 description:      This is Heqzha@Blog.
 disqus_shortname: 
@@ -21,6 +6,7 @@ words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://heqzha.github.io/
 #url:		   http://localhost:4000/
+
 # Owner/author information
 owner:
   name:           Hequn Zhang
@@ -98,4 +84,3 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
->>>>>>> local
