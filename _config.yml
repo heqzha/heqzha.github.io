@@ -34,6 +34,13 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
+# Activate google-code-prettify
+google-code-prettify: true
+google-code-prettify-theme: desert #prettify desert sunburst sons-of-obsidian
+
+# Main css for all browsers
+main_css: custom.min #main main.min custom custom.min
+
 # Links to include in top navigation
 # For external links add external: true
 #links:
