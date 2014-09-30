@@ -10,3 +10,4 @@ github_username: heqzha
 
 # Build settings
 markdown: rdiscount
+permalink: /blog/:year/:month/:day/:title
