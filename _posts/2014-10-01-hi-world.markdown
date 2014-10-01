@@ -2,8 +2,8 @@
 layout: post
 title: "Hi, world"
 date: "2014-10-01"
-modified: "2014-10-10"
-categories: Misc
+modified: "2014-10-01"
+categories: Blog
 tags: [plan, blog, open letter]
 comments: true
 disqus_identifier: 2014100101
