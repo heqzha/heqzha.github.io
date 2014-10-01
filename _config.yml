@@ -30,10 +30,10 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: true
-google_verify: true
+google_analytics: UA-55341510-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: true
+bing_verify:
 
 # Activate google-code-prettify
 google-code-prettify: true
