@@ -6,6 +6,7 @@ modified: "2014-10-10"
 categories: Misc
 tags: [plan, blog, open letter]
 comments: true
+disqus_identifier: 2014100101
 share: true
 ---
 
