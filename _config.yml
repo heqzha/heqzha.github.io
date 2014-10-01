@@ -4,8 +4,8 @@ disqus_shortname:
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://heqzha.github.io/
-#url:		   http://localhost:4000/
+#url:              http://heqzha.github.io/
+url:		   http://localhost:4000/
 
 # Owner/author information
 owner:
@@ -61,7 +61,7 @@ main_css: custom.min #main main.min custom custom.min
 links:
    - title: Subscribe
      url: /feed.xml
-     external: true
+     icon: rss
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
@@ -94,6 +94,6 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 
 #Jekyll tools
-gems:
-  - jekyll-sitemap
-  - jekyll-redirect-from
+#gems:
+#  - jekyll-sitemap
+#  - jekyll-redirect-from
