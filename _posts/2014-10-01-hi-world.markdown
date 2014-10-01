@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Hi, world"
+date: "2014-10-01"
+categories: Misc
+tags: [plan, blog, open letter]
+comments: true
+share: true
+---
+
+Hi, world!
+
+This is my first post. Thank you for coming!
+
+I was thinking to write down something and share it on the internet long time ago, but there always have "other things" to interrupt me to do this, or maybe just because I am too lazy. Anyway, I am here now and ready for rock!!!
+
+In my plan, the topic of this blog is mainly bout technologies, development experiences and study notes in most of the time, but it does not rule out other fun things. And I may also use it as my memo to record the exciting moments or the dribs and drabs.
+
+Recently, I am planning to study intelligent algorithms and I picked a book, [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-A-New-Synthesis/dp/1558604677/ref=sr_1_1?ie=UTF8&qid=1412168981&sr=8-1&keywords=Artificial+Intelligence+A+New+Synthesis) by [Nils J. Nilsson](http://www.amazon.com/Nils-J.-Nilsson/e/B001K8RFP4/ref=dp_byline_cont_pop_book_1) as start. I will write a summary for each chapter or section and post on here. Wish it could be a good start for this blog.
+
+Thank you for reading!!
+
+Hequn
