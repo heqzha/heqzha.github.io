@@ -2,15 +2,14 @@
 layout: post
 title: "Hi, world"
 date: "2014-10-01"
+modified: "2014-10-10"
 categories: Misc
 tags: [plan, blog, open letter]
 comments: true
 share: true
 ---
 
-Hi, world!
-
-This is my first post. Thank you for coming!
+This is my first post. Thank you for coming to my blog!
 
 I was thinking to write down something and share it on the internet long time ago, but there always have "other things" to interrupt me to do this, or maybe just because I am too lazy. Anyway, I am here now and ready for rock!!!
 
