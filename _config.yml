@@ -75,6 +75,27 @@ permalink:   /:categories/:month-:day-:year/:title/
 # Amount of post to show on home page
 paginate: 5
 
+# Jekyll-Scholar settings
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -96,3 +117,4 @@ exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "R
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-scholar

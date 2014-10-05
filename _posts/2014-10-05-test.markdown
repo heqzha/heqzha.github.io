@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Test"
+date: "2014-10-05"
+categories: Test
+tags: [test, blog, reference]
+published: true
+---
+
+###outline
+1. What Is AI?{% cite Nilsson:1998:AIN:280491 %}
+
+
+{% bibliography --cited %}
