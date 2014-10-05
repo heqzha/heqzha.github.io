@@ -11,7 +11,4 @@ published: false
 ---
 
 ###outline
-1. What Is AI?{% cite Nilsson:1998:AIN:280491 %}
-
-
-{% bibliography --cited %}
+1. What Is AI?
